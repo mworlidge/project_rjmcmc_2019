@@ -1,4 +1,5 @@
 ## RANDOM WALK METROPOLIS HASTINGS ALGORITHM WITH SPACE SHUTTLE DATA
+## adapted from http://homepages.math.uic.edu/~rgmartin/Teaching/Stat591/Bayes/Notes/591_oring.pdf?fbclid=IwAR2LNV1BOamBhnrvynx-c7h4lWaMurRy2BLTmt88bR2Ei7Y-KSJ8s2VbZ_E
 
 x <- c(53,57,58,63,66,67,67,67,68,69,70,70,70,70,72,73,75,75,76,76,78,79,81)
 y <- c(1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0)
